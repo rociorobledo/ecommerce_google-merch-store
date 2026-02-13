@@ -2,7 +2,7 @@
 
 Dashboard interactivo desarrollado con **Looker Studio** que analiza el rendimiento de Google Merch Store, una tienda online de productos de la marca Google.
 
-<img src="assets/images/Overview.jpg" width="320"> <img src="assets/images/Audience.jpg" width="320"> <img src="assets/images/Products.jpg" width="320">
+<img src="assets/images/Overview.jpg" width="250"> <img src="assets/images/Audience.jpg" width="250"> <img src="assets/images/Products.jpg" width="250">
 
 ## 📊 Descripción del proyecto
 
