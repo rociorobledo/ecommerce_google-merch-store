@@ -2,6 +2,8 @@
 
 Dashboard interactivo desarrollado con **Looker Studio** que analiza el rendimiento de Google Merch Store, una tienda online de productos de la marca Google.
 
+<img src="assets/images/overwiew.jpg" width="600">
+
 ## 📊 Descripción del proyecto
 
 Este dashboard utiliza la **cuenta demo de Google Analytics 4** para explorar:
